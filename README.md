@@ -1,11 +1,8 @@
-# Create a complete README.md file content and save it to disk
-
-readme_content = """
 # 🩺 MediTalk
 
 MediTalk is a modern and responsive **Doctor Appointment Management System** built using the powerful Next.js framework. It streamlines the process of scheduling appointments between patients and doctors with an intuitive interface and real-time database integration.
 
-![MediTalk Landing Page](./public/medi.jpeg)
+![MediTalk Landing Page](./public/medi.png)
 
 ---
 
@@ -32,5 +29,4 @@ MediTalk is a modern and responsive **Doctor Appointment Management System** bui
 
 ---
 
-## 📂 Folder Structure (Brief)
 
