@@ -34,7 +34,7 @@ MediTalk is a modern and responsive **Doctor Appointment Management System** bui
 ```bash
 git clone https://github.com/your-username/meditalk.git
 cd meditalk
-
+```
 ---
 
 
