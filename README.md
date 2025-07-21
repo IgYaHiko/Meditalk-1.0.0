@@ -28,6 +28,15 @@ MediTalk is a modern and responsive **Doctor Appointment Management System** bui
 | **Appwrite**     | Backend-as-a-Service for auth & database           |
 | **React**        | Core library for building user interfaces          |
 
+
+## 🔧 Clone the Repository
+
+```bash
+git clone https://github.com/your-username/meditalk.git
+cd meditalk
+
 ---
+
+
 
 
