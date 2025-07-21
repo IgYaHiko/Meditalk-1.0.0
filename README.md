@@ -1,7 +1,8 @@
 # 🩺 MediTalk
 
 MediTalk is a modern and responsive **Doctor Appointment Management System** built using the powerful Next.js framework. It streamlines the process of scheduling appointments between patients and doctors with an intuitive interface and real-time database integration.
-#🚀Preview
+
+# 🚀 Preview
 ![MediTalk Landing Page](./public/medi.png)
 
 ---
